@@ -1,0 +1,5 @@
+export const companyName ="Comapny Name"
+export const tagline1 ="Tag line1 "
+export const tagline2 ="Tag line2 "
+export const tagline3 ="Tag line3 "
+export const tagline4 ="Tag line4 "

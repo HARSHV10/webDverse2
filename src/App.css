@@ -1,0 +1,11 @@
+.App{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+button:hover{
+  opacity: 0.75;
+}

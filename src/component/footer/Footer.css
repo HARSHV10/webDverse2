@@ -1,0 +1,18 @@
+.Footer{
+    display: flex;
+    width: 75%;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+    /* background-color: red; */
+}
+.Footer h1{
+    font-size: 65px;
+}
+.Footer img{
+    width: 75%;
+    /* font-size: 65px; */
+}
+.Footer span{
+    padding:0px 0px 0px 10px ;
+}

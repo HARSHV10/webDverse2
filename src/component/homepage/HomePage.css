@@ -1,0 +1,52 @@
+.homepage{
+    margin: 10px 0px 0px 0px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    /* background-color: aquamarine; */
+    /* display: flex; */
+    width: 100%;
+}
+
+.homepage div:nth-child(1){
+    height: 70%;
+    /* width: 30%; */
+    /* text-wrap: nowrap; */
+    text-align: center;
+    /* background-color: red; */
+    font-size: 4vw;
+    font-weight: bolder;
+    text-align: center;
+    /* background-color: red; */
+}
+
+.homepage div:nth-child(1) div{
+    font-size: 50%;
+    font-weight: 500;
+}
+
+.homeButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-size: larger;
+}
+
+.homeButton button{
+    box-sizing: content-box;
+    height: 30%;
+    font-size: 100%;
+    padding: 5px 10px 10px 10px ;
+}
+
+
+
+.homeButton span{
+    position: relative;
+    top: 5px;
+    height: 100%;
+}
