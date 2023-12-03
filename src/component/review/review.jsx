@@ -35,7 +35,7 @@ const icon=[{heading:"Design",two:<Palette size={50}/>},
 export default function Reviews(){
     return(
         <div className='reviews'>
-        <h1>Millions run on Notion every day</h1>
+        <h1>Millions run on  SeedLink every day</h1>
         <span>Powering the world’s best teams, from next-generation startups to established enterprises.</span>
         <br></br>
         <a href='#'>Read Customer Stories</a>
