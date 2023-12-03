@@ -10,10 +10,10 @@ export default function Card({Icon}){
         <Icon/>
         </span>
         <div className='CardHeading'>
-        AI
+        Seed 
         </div>
          </div>
-        <div>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </div>
+        <div>GET CLINICALLY TESTED SEEDS FOR BETTER CULTIVATION </div>
 
         </div>
     )
